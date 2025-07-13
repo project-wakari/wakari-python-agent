@@ -1,5 +1,2 @@
 .env
-html_index.faiss
-id_map.json
-utils.py
-element_map.json
+storage/
